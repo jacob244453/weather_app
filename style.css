@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #f7f7f7;
+    margin-top: 30px;
+    
+}
+#header {
+    padding: 11px;
+    color: #000000;
+    font-size: 25px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+  }
+.jumbotron {
+    text-align: center;
+    background-color: transparent;
+    color: rgb(0, 0, 0);
+}
+
+.input{
+    text-align: center;
+    margin: 100px 0;
+}
+
+input[type="text"]{
+    height: 50px;
+    width: 600px;
+    background: #e2e1e1;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    padding: 10px 10px;
+}
+input[type="submit"]{
+    height: 50px;
+    width: 100px;
+    background: #e2e1e1;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+}
+.display{
+    text-align: center;
+}
