@@ -46,3 +46,7 @@ input[type="submit"]{
 .display{
     text-align: center;
 }
+.button:hover{
+    cursor: pointer;
+    background-color: #bdbdbd;
+}
